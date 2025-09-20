@@ -59,18 +59,26 @@
 
 ---
 
-## 🚀 Projects  
+## 🛠️ Featured Projects
 
-🔹 [**Task Tracker**](https://task-tracker-beta-bice.vercel.app/) – React + Redux + Framer Motion  
-🔹 [**Format Converter**](https://format-converter-three.vercel.app/) – File format converter  
-🔹 [**Weather Dashboard**](https://rakesh-dey-013.github.io/Weather-Dashboard/) – Real-time weather updates  
-🔹 [**My Portfolio**](https://rakesh-dey-portfolio.netlify.app/) – Modern UI design  
-🔹 [**HeadPhone Website**](https://rd-codenexus-headphone-website.netlify.app/) – Modern UI design  
-🔹 [**Car Website**](https://rd-codenexus-car-website.netlify.app/) – Premium car website design  
-🔹 [**EpicMart**](https://epicmart.netlify.app/) – E-Commerce Website  
-🔹 [**DSA Repo**](https://github.com/Rakesh-Dey-013/DSA) – DSA practice problems  
-🔹 [**News Explorer**](https://github.com/Rakesh-Dey-013/News-Explorer) – News search & exploration app (Repo only)  
-🔹 [**JSON Data Formatter**](https://github.com/Rakesh-Dey-013/JSON_Data_Formater) – JSON data formatting utility  
+| Project | Description | Tech Stack |
+|--------|-------------|-----------|
+| [**Task Tracker**](https://task-tracker-beta-bice.vercel.app/) | Task management with smooth animations | ![Tech](https://skillicons.dev/icons?i=react,redux,javascript) |
+| [**Format Converter**](https://format-converter-three.vercel.app/) | Convert between multiple file formats | ![React](https://skillicons.dev/icons?i=react,javascript) |
+| [**Weather Dashboard**](https://rakesh-dey-013.github.io/Weather-Dashboard/) | Real-time weather updates | ![Tech](https://skillicons.dev/icons?i=react,javascript) |
+| [**My Portfolio**](https://rakesh-dey-portfolio.netlify.app/) | Modern personal portfolio website | ![Tech](https://skillicons.dev/icons?i=react,javascript) |
+| [**Recipe Finder**](https://rakesh-dey-013.github.io/Recipe-Finder/) | Search and try new recipes | ![React](https://skillicons.dev/icons?i=react,javascript) |
+| [**HeadPhone Website**](https://rd-codenexus-headphone-website.netlify.app/) | Sleek headphone product website | ![Tech](https://skillicons.dev/icons?i=javascript,html,css,tailwind) |
+| [**Car Website**](https://rd-codenexus-car-website.netlify.app/) | Premium car showcase | ![Tech](https://skillicons.dev/icons?i=javascript,html,css,tailwind) |
+| [**EpicMart**](https://epicmart.netlify.app/) | E-commerce store prototype | ![Tech](https://skillicons.dev/icons?i=javascript,html,css,tailwind) |
+| [**DSA Repo**](https://github.com/Rakesh-Dey-013/DSA) | DSA practice problems (solutions + notes) | ![Tech](https://skillicons.dev/icons?i=cpp) |
+| [**News Explorer**](https://github.com/Rakesh-Dey-013/News-Explorer) | News search & exploration (repo only) | ![Tech](https://skillicons.dev/icons?i=react,javascript) |
+| [**JSON Data Formatter**](https://github.com/Rakesh-Dey-013/JSON_Data_Formater) | Clean and format JSON data | ![Tech](https://skillicons.dev/icons?i=react,typescript) |
+| [**Tiny Utils (NPM Package)**](https://www.npmjs.com/package/@rakeshdey/tiny-utils) | Custom utility package for JS projects | ![Node](https://skillicons.dev/icons?i=nodejs,npm,javascript) |
+| [**Pokemon Explorer**](https://rakesh-dey-013.github.io/Pokemon-Explorer/) | Explore Pokémon with live stats | ![Tech](https://skillicons.dev/icons?i=react,javascript) |
+| [**Chess Game**](https://rakesh-dey-013.github.io/Chess_Game/) | Fully functional chess game with legal moves | ![Tech](https://skillicons.dev/icons?i=javascript,html,css,tailwind) |
+
+
 
 ---
 
