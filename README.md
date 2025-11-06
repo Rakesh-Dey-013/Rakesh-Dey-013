@@ -63,6 +63,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
+| [**Learnify**](https://learnify-beige.vercel.app/) | Personalized Learning Dashboard | ![Tech](https://skillicons.dev/icons?i=react,javascript) |
+| [**QR Code Designer**](https://rakesh-dey-013.github.io/QR-Code_Designer/) | Create stunning, customizable QR codes | ![Tech](https://skillicons.dev/icons?i=react,javascript) |
 | [**Task Tracker**](https://task-tracker-beta-bice.vercel.app/) | Task management with smooth animations | ![Tech](https://skillicons.dev/icons?i=react,redux,javascript) |
 | [**Format Converter**](https://format-converter-three.vercel.app/) | Convert between multiple file formats | ![React](https://skillicons.dev/icons?i=react,javascript) |
 | [**Weather Dashboard**](https://rakesh-dey-013.github.io/Weather-Dashboard/) | Real-time weather updates | ![Tech](https://skillicons.dev/icons?i=react,javascript) |
